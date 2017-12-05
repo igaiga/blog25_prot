@@ -29,7 +29,7 @@ GitHub Flavored Markdown: https://guides.github.com/features/mastering-markdown/
 ### 2. 他のサイトへ寄稿いただき、URLをご連絡いただく
 
 ページテンプレートはこちらをご参照ください
-★TODO: ページテンプレファイルへリンク貼る
+https://github.com/igaiga/r25_prot/blob/master/template.ja.md
 
 ## 提出方法
 
