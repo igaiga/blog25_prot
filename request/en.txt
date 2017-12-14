@@ -1,0 +1,66 @@
+Dear ○○,
+
+This is a staff of a Ruby 25th anniversary event.
+Ruby was born in 24th Feb, 1993, so will be 25th birthday.
+We held a event that celebrating and talking about Ruby's past, now and future, on 24th Feb. 2018, in Tokyo.
+
+We're also make a event on web collecting messages for Ruby from over the world Rubyist.We'd like to ask you to write message for Ruby and Rubyist, though I know how busy you are. We are planning to open the messages web pages on 1st Feb.
+
+## About the message
+
+About Ruby
+We don't make constraint for detail
+It's good to write past, now and future.
+License: CC BY-SA
+https://creativecommons.org/licenses/by-sa/2.0/
+
+And we make code of conduct in the event, so the message is also under the that.
+*** TODO: CoC url
+
+## Format
+
+There're 2 ways.
+
+### 1. GitHub Flavored Markdown
+
+GitHub Flavored Markdown: https://guides.github.com/features/mastering-markdown/
+画像や動画を載せる際は、リポジトリ容量が大きくなるのを防ぐため、外部に置いていただけますようお願いします。
+ファイル名: id_or_name.language.md
+  例: igaiga.ja.md
+ファイル形式: github markdown
+
+ページテンプレートも用意しておりますが、沿わずに自由に書いていただいても構いません。
+★TODO: ruby-no-kaiリポジトリへ置き換え。寄せ書きを公式サイトで見せるか、githubで見せるかを決めれば確定できる
+https://github.com/igaiga/r25_prot/blob/master/template.ja.md
+
+### 2. 他のサイトへ寄稿いただき、URLをご連絡いただく
+
+- URL
+- idまたは名前
+
+をご連絡ください。
+
+## 提出方法
+
+2つの方法がございます。
+
+### a. Pull Requestを送る
+
+https://github.com/ruby-no-kai/ruby25
+ファイル名 id_or_name.language.md のファイルを上記リポジトリルートディレクトリに置いてPRを作成してください。
+
+### b. メールアドレスでファイルを送付いただく
+
+ファイル名 id_or_name.language.md で添付の上、ご送付ください。
+宛先: ruby25@ruby.or.jp
+
+## 〆切
+
+2018年1月26日(金)
+
+## 公開
+
+2018年2月1日から順次公開予定です。公開までお時間をいただくこともありますがご容赦ください。
+
+
+以上、どうぞよろしくお願いいたします。
