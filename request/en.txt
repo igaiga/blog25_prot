@@ -24,43 +24,45 @@ There're 2 ways.
 ### 1. GitHub Flavored Markdown
 
 GitHub Flavored Markdown: https://guides.github.com/features/mastering-markdown/
-画像や動画を載せる際は、リポジトリ容量が大きくなるのを防ぐため、外部に置いていただけますようお願いします。
-ファイル名: id_or_name.language.md
-  例: igaiga.ja.md
-ファイル形式: github markdown
+Please place big files like an image or movie outside of repository, to prevent repository size will be huge.
+file name: id_or_name.language.md (example: igaiga.en.md)
+file format: github markdown
 
-ページテンプレートも用意しておりますが、沿わずに自由に書いていただいても構いません。
-★TODO: ruby-no-kaiリポジトリへ置き換え。寄せ書きを公式サイトで見せるか、githubで見せるかを決めれば確定できる
+There is a template file, but you can write freely without the template.
 https://github.com/igaiga/r25_prot/blob/master/template.ja.md
+*** TODO: replace URL
 
-### 2. 他のサイトへ寄稿いただき、URLをご連絡いただく
+### 2. Write in your blog page 
 
-- URL
-- idまたは名前
+You can write in your blog page. Tell us your name and URL in a file with follow style.
 
-をご連絡ください。
+file name: id_or_name.language.md (example: igaiga.en.md)
+file format: github markdown
+Write the URL into the file.
 
-## 提出方法
+## Submission
 
-2つの方法がございます。
+There're 2 ways.
 
-### a. Pull Requestを送る
+### a. Pull Request
 
 https://github.com/ruby-no-kai/ruby25
-ファイル名 id_or_name.language.md のファイルを上記リポジトリルートディレクトリに置いてPRを作成してください。
+Make pull request to put your file named "id_or_name.language.md" into root directory in the "ruby-no-kai/ruby25" Github repository. 
 
-### b. メールアドレスでファイルを送付いただく
+### b. send via email
 
-ファイル名 id_or_name.language.md で添付の上、ご送付ください。
-宛先: ruby25@ruby.or.jp
+Send email to attach your file named "id_or_name.language.md".
+To: ruby25@ruby.or.jp
+Subject: Ruby25 message
 
-## 〆切
+## Deadline
 
-2018年1月26日(金)
+26th(Fri) Jan., 2018
 
-## 公開
+## Publish
 
-2018年2月1日から順次公開予定です。公開までお時間をいただくこともありますがご容赦ください。
+We'll publish the message page about 1st Feb., 2018.
+(There's a possibility it might be late with that publishing.)
 
-
-以上、どうぞよろしくお願いいたします。
+Sincerely,
+igaiga as Ruby25th Anniversary party staff
