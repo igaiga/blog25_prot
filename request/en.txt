@@ -29,16 +29,13 @@ file name: id_or_name.language.md (example: igaiga.en.md)
 file format: github markdown
 
 There is a template file, but you can write freely without the template.
-https://github.com/igaiga/r25_prot/blob/master/template.ja.md
-*** TODO: replace URL
+https://raw.githubusercontent.com/ruby-no-kai/ruby25/master/docs/template.en.md
 
 ### 2. Write in your blog page 
 
-You can write in your blog page. Tell us your name and URL in a file with follow style.
-
-file name: id_or_name.language.md (example: igaiga.en.md)
-file format: github markdown
-Write the URL into the file.
+You can write in your blog page.
+Send us your file with your URL.
+File name and format rules are same as "1. GitHub Flavored Markdown".
 
 ## Submission
 
@@ -47,7 +44,7 @@ There're 2 ways.
 ### a. Pull Request
 
 https://github.com/ruby-no-kai/ruby25
-Make pull request to put your file named "id_or_name.language.md" into root directory in the "ruby-no-kai/ruby25" Github repository. 
+Make a pull request to put your file named "id_or_name.language.md" into root directory in the "ruby-no-kai/ruby25" Github repository. 
 
 ### b. send via email
 
@@ -62,7 +59,7 @@ Subject: Ruby25 message
 ## Publish
 
 We'll publish the message page about 1st Feb., 2018.
-(There's a possibility it might be late with that publishing.)
+There's a possibility it might be late with that publishing.
 
 Sincerely,
 igaiga as Ruby25th Anniversary party staff
