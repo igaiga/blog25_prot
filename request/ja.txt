@@ -9,7 +9,7 @@ Rubyの25周年をみんなで祝い、Rubyのこれまで、今、そして未�
 ## 内容
 
 Rubyに関連するもの
-詳細なテーマや内容について制限はございません
+詳細なテーマや内容について制限はありません
 25年を振り返るだけでなく、現在、未来についても言及いただければ幸いです
 ライセンスは CC BY-SA で取り扱います
 https://creativecommons.org/licenses/by-sa/2.0/
@@ -19,7 +19,7 @@ https://creativecommons.org/licenses/by-sa/2.0/
 
 ## 形式
 
-2つの方法がございます。
+2つの方法があります。
 
 ### 1. GitHub Flavored Markdown
 
@@ -42,7 +42,7 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
 ## 提出方法
 
-2つの方法がございます。
+2つの方法があります。
 
 ### a. Pull Requestを送る
 
