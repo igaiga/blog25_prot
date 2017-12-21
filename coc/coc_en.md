@@ -8,14 +8,15 @@ The event is dedicated to providing a harassment-free event experience for every
 
 Harassment includes, but is not limited to:
 
-Offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof).
-Sexual images in public spaces
-Deliberate intimidation, stalking, following
-Harassing photography or recording
-Sustained disruption of talks or other events
-Inappropriate physical contact
-Unwelcome sexual attention
-Advocating for, or encouraging, any of the above behaviour
+- Offensive verbal comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof).
+- Sexual images in public spaces
+- Deliberate intimidation, stalking, following
+- Harassing photography or recording
+- Sustained disruption of talks or other events
+- Inappropriate physical contact
+- Unwelcome sexual attention
+- Advocating for, or encouraging, any of the above behaviour
+
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 Sponsors are also subject to this anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
